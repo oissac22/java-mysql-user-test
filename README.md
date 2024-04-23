@@ -1,6 +1,6 @@
 # Objetivo do código
 
-Demonstração completa de uso de banco de dados mysql com java
+Demonstração de uso de banco de dados mysql com java de forma mais simples e precisa possível.
 
 # Instruções de código
 
@@ -11,7 +11,7 @@ Observe que na classe Test tem duas funções públicas:
 - testInsertUser: insere um usuário de teste.
 - testListUser: lista os usuário inseridos.
 
-Você pode usar estais duas funções na função main da classe Main para executar testes como por exemplo:
+Você pode usar estas duas funções na função main da classe Main para executar testes como por exemplo:
 
 ```
 public class Main {
